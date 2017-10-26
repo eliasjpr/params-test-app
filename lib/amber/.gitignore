@@ -1,0 +1,10 @@
+/doc/
+/bin/
+/.shards/
+/.vscode/
+.DS_Store
+lib/
+.shards/
+/amber
+/tmp
+shard.lock

@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled 
+a78129ec1e66aa24c91b93199ea187e4793c8d58 refs/heads/change_cli
+610d52076888ddd35a62ebb1342bc5798e8945d0 refs/heads/feat-no-build
+9f14238a5acc2582c0c48958199dc49e00b651b3 refs/heads/master
+2bc15bd21580586d2b7d1bf34c8754798dc2c759 refs/heads/refactor-cli
+c2bdd90550066a54e9b4f7b8b4859be91054b02e refs/pull/1/head
+d812ea5ccc15bc9472210ccad5ee3be91e4b5ea8 refs/pull/1/merge
+77ba086e791e4dac81df1c8630df93822c5fcd13 refs/tags/1.0.0

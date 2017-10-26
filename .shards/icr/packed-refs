@@ -1,0 +1,24 @@
+# pack-refs with: peeled fully-peeled 
+cf2b4c3fa15bf3e01cddec87e3ee2c4bdcf2f15f refs/heads/fix-travis
+5988d0222b490e19745fd312db1a3bf03491d92f refs/heads/fix-travis-2
+b28bb938cc9e9e439424217c074a9168d253ba4b refs/heads/master
+4bc8b51783ef890938ad7f4ce1717d0bac725ea7 refs/heads/reduce-dependecies
+71f8d0ea835f903837eb8fa3f8d09f2fe559ad70 refs/heads/travis2
+78b66ca40eaeadac9796dd3edfc7c85d41b00885 refs/pull/1/head
+34434aadd54665dbe4c16bf8c8118b2cd229d3d7 refs/tags/v0.1.0
+135887ed6560ee3f21ee9f922ba8b17f5101af0a refs/tags/v0.1.1
+528129742b107e055bad7171452954e11b630a62 refs/tags/v0.1.2
+6db76d9f83bb5db26f6c55f3f4e0d9924c21fcfb refs/tags/v0.2.0
+067478625ba2dc7c88dc9c2ba688be622e3c344a refs/tags/v0.2.1
+0c75e890a2d851c2a28412a4a9c78f4ba08df182 refs/tags/v0.2.10
+b943c3e41c807acb1688dbd826138206ea102f35 refs/tags/v0.2.11
+6331df0f976962bda6979133f6b7a8e56085a6ae refs/tags/v0.2.12
+b60190a5d9c5bcbd7614338e3afea3db83b3702f refs/tags/v0.2.13
+d613aedaa7a52025a4e7c088d6189bbafddaf7e5 refs/tags/v0.2.2
+f364de6c6b67ce2d6821378f67419d5ea4cb7738 refs/tags/v0.2.3
+e78451cdd85d48dc4bb612e18f104ff7d3d12a37 refs/tags/v0.2.4
+e979bd207d2cc08bf27c21b617a31daa7bdb2672 refs/tags/v0.2.5
+b9b8cf664528343b11c449e3754dc4fb97270851 refs/tags/v0.2.6
+a3c4d8e64af2f370c1aef26b715e77847f8d4058 refs/tags/v0.2.7
+999bb4aa6e4620df552b9295b35108af304bb5cf refs/tags/v0.2.8
+06ea4a3674b1ba44e0e66b02e303c9041722ee1d refs/tags/v0.2.9

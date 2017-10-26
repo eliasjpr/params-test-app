@@ -1,0 +1,21 @@
+# pack-refs with: peeled fully-peeled 
+4038e5723df6d98226eb3966ce00106e8b2f70bd refs/heads/crystal-db
+af301fcec0c42ee5872fe0d783fbf91a762a11b9 refs/heads/customize-db-path
+8f0690c0473380784c9149012a688855b56bbcb8 refs/heads/feature/warn-unordered-migrations
+1386a5793fe43ed877f004b810349206eca5e707 refs/heads/master
+af301fcec0c42ee5872fe0d783fbf91a762a11b9 refs/pull/12/head
+a1a6af02180b3cbfe6f66a73b2173402a2cb2909 refs/pull/14/head
+2b4ef9e5f06fce4154870eae703bbd16f7d1c3d0 refs/pull/14/merge
+349715646cfcfb08f0aa4d941e5a925a1e3896dc refs/pull/22/head
+593307a0197d99692577811da83d611b6d49b7e2 refs/pull/22/merge
+ff214a3f5d49c50411722168fcce5ad15863790c refs/pull/5/head
+081a1fac3015b2388ae3463a1de0af6f47cfba35 refs/pull/5/merge
+4038e5723df6d98226eb3966ce00106e8b2f70bd refs/pull/7/head
+8a7db21ae9f0f1d37781d55f6962c37dadfb0693 refs/tags/v0.1.0
+7f65764847abeda45b98817ed6287a66d24b2869 refs/tags/v0.2.0
+^c873b8ab8bc775849544bb8b37a8b4c98bb08791
+63acd45e55ccedbe4b736a8621ab3c22d70f1550 refs/tags/v0.2.1
+^50771c3c7ee69d890e17f355f6e2e543cd1f6340
+80f07d0cc7b01e9efa51f68c6f4f635f531e49a4 refs/tags/v0.2.2
+^627fb9a11e757ccbda0e0e5f6df727a99cd01a9e
+3c60d8a2570ee742cf3063259f223c4141abf905 refs/tags/v0.3.0
